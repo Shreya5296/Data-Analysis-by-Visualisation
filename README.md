@@ -1,2 +1,2 @@
-# Data-Analysis-by-Visualisation
-Bar and Scatter Plot
+# Data-Analysis-by-visualisation
+Solution for c107
